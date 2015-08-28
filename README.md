@@ -1,6 +1,6 @@
 *------------------------------------------------------------*
 
-Author: Martynas Mockapetris
+Author: Martynas Mockapetris <br>
 Project: Personal Webpage/Portfolio
 Title: Martynas Mockapetris Personal Portfolio
 
