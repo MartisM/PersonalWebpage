@@ -1,6 +1,8 @@
 *------------------------------------------------------------*
+
 Author: Martynas Mockapetris
 Project: Personal Webpage/Portfolio
+Title: Martynas Mockapetris Personal Portfolio
 
 Webpage that was built using Jade and Sass preprocessors.
 Working environmnet was set using jekyll and gulp.
@@ -19,4 +21,5 @@ if not already did that.
 
 Thank you all who have helped me and participated in this project,
 without them this would not be in the daylight.
+
 *------------------------------------------------------------*
